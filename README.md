@@ -41,6 +41,6 @@ Whether it's setting up a custom Arch Linux environment, scripting automations, 
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/hozyfa_batisha"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/el7azzo" alt="Discord" title="Come Play Some Games"><img width="32px" src="https://www.svgrepo.com/show/473585/discord.svg"/></a>
+  <a href="https://discord.com/users/870813836133928970" alt="Discord" title="Come Play Some Games"><img width="32px" src="https://www.svgrepo.com/show/473585/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
