@@ -10,7 +10,7 @@ Every project I work on is an opportunity to learn — from understanding the fu
 
 Whether it's setting up a custom Arch Linux environment, scripting automations, or preparing for programming contests like ECPC, I believe that **progress comes from practice**, and I'm here for the long run.
 
----
+#
 
 ### 🧰 Languages and Tools
 
