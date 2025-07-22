@@ -35,6 +35,27 @@ Whether it's setting up a custom Arch Linux environment, scripting automations, 
 
 #
 
+### 🧠 Competitive Programming
+
+I'm currently improving my problem-solving skills through competitive programming.  
+It helps me write better, faster, and more efficient code.
+
+- 💻 Practicing on:  
+  - [Codeforces](https://codeforces.com/profile/Hozyfa)  
+  - [LeetCode](https://leetcode.com/eA8sb8emeo) *(optional)*
+
+- 🏆 Preparing for:  
+  - ECPC (Egyptian Collegiate Programming Contest)  
+  - Local university contests and problem-solving challenges
+
+- 📌 Languages:  
+  - Main: **C++**
+  - Sometimes: **Python** for quick scripting
+
+> 🚀 My goal is to master algorithms, data structures, and become a strong problem solver.
+
+#
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hozyfa-batisha"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/473701/linkedin.svg"/></a>
