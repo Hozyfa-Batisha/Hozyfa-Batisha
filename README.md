@@ -14,13 +14,7 @@ Whether it's setting up a custom Arch Linux environment, scripting automations, 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Oracle Cloud" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/256/11389/11389064.png?semt=ais_hybrid" />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,js,html,css,bash,cmake,git,postman,linux,notion)](https://skillicons.dev)
 
 #
 
@@ -58,10 +52,10 @@ It helps me write better, faster, and more efficient code.
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hozyfa-batisha"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.svgrepo.com/show/473701/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/hozyfa-batisha"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/hozyfa_batisha"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /></a>
+  <a href="https://x.com/hozyfa_batisha"><img width="32px" alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/870813836133928970" alt="Discord" title="Come Play Some Games"><img width="32px" src="https://www.svgrepo.com/show/473585/discord.svg"/></a>
+  <a href="https://discord.com/users/870813836133928970" alt="Discord" title="Come Play Some Games"><img width="32px" src="https://skillicons.dev/icons?i=discord"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
