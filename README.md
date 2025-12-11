@@ -14,27 +14,39 @@ Whether it's setting up a custom Arch Linux environment, scripting automations, 
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,js,html,css,bash,cmake,git,postman,linux,notion)](https://skillicons.dev)
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/light/cpp" width="64px" />
+<img src="https://iconic-api.onrender.com/light/python" width="64px" />
+<img src="https://iconic-api.onrender.com/light/typescript" width="64px" />
+<img src="https://iconic-api.onrender.com/light/js" width="64px" />
+<img src="https://iconic-api.onrender.com/light/html" width="64px" />
+<img src="https://iconic-api.onrender.com/light/css" width="64px" />
+<img src="https://iconic-api.onrender.com/light/bash" width="64px" />
+<img src="https://iconic-api.onrender.com/light/perplexity" width="64px" />
+<img src="https://iconic-api.onrender.com/light/git" width="64px" />
+<img src="https://iconic-api.onrender.com/light/postman" width="64px" />
+<img src="https://iconic-api.onrender.com/light/linux" width="64px" />
+<img src="https://iconic-api.onrender.com/light/notion" width="64px" />
+<div>
 
 #
-
+<!--
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hozyfa-Batisha&theme=prussian)](https://git.io/streak-stats)
 
 ### 💻 GitHub Profile Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hozyfa-Batisha&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hozyfa-Batisha&hide_progress=true&theme=prussian)
 
-#
+#-->
 
 ### 🧠 Competitive Programming
 
 I'm currently improving my problem-solving skills through competitive programming.  
 It helps me write better, faster, and more efficient code.
 
-- 💻 Practicing on:  
+- 💻 Practicing on:
   - [Codeforces](https://codeforces.com/profile/Hozyfa)  
   - [LeetCode](https://leetcode.com/eA8sb8emeo) *(optional)*
 
