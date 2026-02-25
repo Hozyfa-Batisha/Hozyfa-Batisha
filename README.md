@@ -11,15 +11,16 @@
 </p>
 
 
-<!-- ## My Games & Projects
+## My Games & Projects
 All my Games and projects listed in one place
 
 <details>
-<summary><b></b> 💻 </summary>
-<img src="" alt="" />
+<summary><b>Matrix Calculater</b> 💻 Calculate any operation on any matrix</summary>
+<img src="https://github.com/Hozyfa-Batisha/Matrix-Calculator/blob/master/assets/homescreen.png" alt="matrix-calulater" />
   
-* []()
-</details> -->
+* [Repo](https://github.com/Hozyfa-Batisha/Matrix-Calculator)
+  
+</details>
 
 <hr>
 
@@ -40,9 +41,10 @@ All my Games and projects listed in one place
   <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=hozyfa-batisha" alt="GitHub Streak" /> </a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
-</p> -->
+<p align="center">
+  <!-- <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/7a425277-9804-4092-b8e7-510eeeddcd84.svg" /></a>
+  <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/2e66cd7b-b286-4020-b700-5725bd17ea17.svg" /></a> -->
+</p>
 
 <h3 align="center">Checkout my LeetCode!</h3>
 
