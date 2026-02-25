@@ -1,73 +1,58 @@
-# Hozyfa Batisha
+<h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0;">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Hozyfa Batisha
+</h1>
 
-**`Digital Builder (Developer / Problem Solver / Tinkerer)`**
 
-I'm a self-driven junior developer exploring the world of code one project at a time.  
-From system tweaking and problem solving to experimenting with Linux, cloud tools, and C++, I enjoy building things that teach me something new while solving real-world problems.
-
-I’m currently focused on competitive programming, system customization, and improving my development workflow using lightweight tools and modern Linux environments.  
-Every project I work on is an opportunity to learn — from understanding the fundamentals to crafting better solutions through hands-on experience.
-
-Whether it's setting up a custom Arch Linux environment, scripting automations, or preparing for programming contests like ECPC, I believe that **progress comes from practice**, and I'm here for the long run.
-
-#
-
-### 🧰 Languages and Tools
-
-<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/light/cpp" width="64px" />
-<img src="https://iconic-api.onrender.com/light/python" width="64px" />
-<img src="https://iconic-api.onrender.com/light/typescript" width="64px" />
-<img src="https://iconic-api.onrender.com/light/js" width="64px" />
-<img src="https://iconic-api.onrender.com/light/html" width="64px" />
-<img src="https://iconic-api.onrender.com/light/css" width="64px" />
-<img src="https://iconic-api.onrender.com/light/bash" width="64px" />
-<img src="https://iconic-api.onrender.com/light/perplexity" width="64px" />
-<img src="https://iconic-api.onrender.com/light/git" width="64px" />
-<img src="https://iconic-api.onrender.com/light/postman" width="64px" />
-<img src="https://iconic-api.onrender.com/light/linux" width="64px" />
-<img src="https://iconic-api.onrender.com/light/notion" width="64px" />
-<div>
-
-#
-<!--
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hozyfa-Batisha&theme=prussian)](https://git.io/streak-stats)
-
-### 💻 GitHub Profile Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hozyfa-Batisha&hide_progress=true&theme=prussian)
-
-#-->
-
-### 🧠 Competitive Programming
-
-I'm currently improving my problem-solving skills through competitive programming.  
-It helps me write better, faster, and more efficient code.
-
-- 💻 Practicing on:
-  - [Codeforces](https://codeforces.com/profile/Hozyfa)  
-  - [LeetCode](https://leetcode.com/eA8sb8emeo) *(optional)*
-
-- 🏆 Preparing for:  
-  - ECPC (Egyptian Collegiate Programming Contest)  
-  - Local university contests and problem-solving challenges
-
-- 📌 Languages:  
-  - Main: **C++**
-  - Sometimes: **Python** for quick scripting
-
-> 🚀 My goal is to master algorithms, data structures, and become a strong problem solver.
-
-#
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/hozyfa-batisha"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/hozyfa_batisha"><img width="32px" alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/870813836133928970" alt="Discord" title="Come Play Some Games"><img width="32px" src="https://skillicons.dev/icons?i=discord"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  👨🏻‍💻 I'm a self-driven junior developer exploring the world of code small projects at a time — I design, code, over-engineer, panic-debug, and celebrate small wins 🎉😎
 </p>
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  Love building games and also making the web a pretty place. Currently making all the games I wish if I had with godot and c++ and sharing with my friends. Spending my free time making websites feel native with transparency and creative styling as part time job.
+</p>
+
+
+<!-- ## My Games & Projects
+All my Games and projects listed in one place
+
+<details>
+<summary><b></b> 💻 </summary>
+<img src="" alt="" />
+  
+* []()
+</details> -->
+
+<hr>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/hozyfa.batisha?" target="_blank" title="Buy Me a Coffee">
+    <img src="https://iili.io/JoQl86x.md.png" alt="Buy Me a Coffee" width="104" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,bash,git,postman,github,notion,figma&theme=light&perline=12" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hozyfa-batisha&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </a> <br>
+  <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=hozyfa-batisha" alt="GitHub Streak" /> </a>
+</p>
+
+<!-- <p align="center">
+  <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
+</p> -->
+
+<h3>Checkout my LeetCode!</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/eA8sb8emeo" target="blank"> <img src="https://leetcard.jacoblin.cool/eA8sb8emeo?theme=unicorn&font=Noto%20Sans%20Palmyrene" alt="GitHub Streak" /> </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hozyfa-batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
+<a href="https://x.com/hozyfa_batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
+<a href="https://discord.com/users/870813836133928970" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="El7azzo" height="30" width="40" /></a>
