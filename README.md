@@ -22,6 +22,15 @@ All my Games and projects listed in one place
   
 </details>
 
+<details>
+<summary><b>Void Chat</b> 💻 Real-time Chat Application</summary>
+<img src="https://github.com/Hozyfa-Batisha/Void-Chat/blob/main/screenshots/welcome.png" alt="Void-Chat" />
+  
+* [Repo](https://github.com/Hozyfa-Batisha/Void-Chat)
+* [Live App](https://void-chat-2393b.web.app)
+  
+</details>
+
 <hr>
 
 <p align="center">
