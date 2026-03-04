@@ -56,8 +56,8 @@ All my Games and projects listed in one place
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/7a425277-9804-4092-b8e7-510eeeddcd84.svg" /></a>
-  <!-- <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/2e66cd7b-b286-4020-b700-5725bd17ea17.svg" /></a> -->
+  <!-- <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/7a425277-9804-4092-b8e7-510eeeddcd84.svg" /></a> -->
+  <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/2e66cd7b-b286-4020-b700-5725bd17ea17.svg" /></a>
 </p>
 
 <h3 align="center">Checkout my LeetCode!</h3>
