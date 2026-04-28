@@ -61,15 +61,15 @@ All my Games and projects listed in one place
   <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/2e66cd7b-b286-4020-b700-5725bd17ea17.svg" /></a> -->
 </p>
 
-<h3 align="center">Checkout my LeetCode!</h3>
+<!-- <h3 align="center">Checkout my LeetCode!</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/eA8sb8emeo" target="blank"> <img src="https://leetcard.jacoblin.cool/eA8sb8emeo?theme=unicorn&font=Noto%20Sans%20Palmyrene" alt="GitHub Streak" /> </a>
-</p>
+</p> -->
 
-<!-- <h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hozyfa-batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
-<a href="https://x.com/hozyfa_batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
-<a href="https://discord.com/users/870813836133928970" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="El7azzo" height="30" width="40" /></a> -->
+<!-- <a href="https://x.com/hozyfa_batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
+<a href="https://discord.com/users/870813836133928970" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="El7azzo" height="30" width="40" /></a>  -->
