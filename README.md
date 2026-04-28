@@ -51,7 +51,7 @@ All my Games and projects listed in one place
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hozyfa-batisha&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </a> <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hozyfa-batisha&theme=holi-theme&card_width=489&hide_longest_streak=true" alt="GitHub Streak" /></a> <br>
   <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=hozyfa-batisha" alt="GitHub Streak" /> </a>
 </p>
 
