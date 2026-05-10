@@ -71,5 +71,5 @@ All my Games and projects listed in one place
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hozyfa-batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
-<!-- <a href="https://x.com/hozyfa_batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hozyfa Batisha" height="30" width="40" /></a>
-<a href="https://discord.com/users/870813836133928970" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="El7azzo" height="30" width="40" /></a>  -->
+<!-- <a href="https://x.com/hozyfa_batisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hozyfa Batisha" height="30" width="40" /></a> -->
+<a href="https://discord.com/users/870813836133928970" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="El7azzo" height="30" width="40" /></a>  
