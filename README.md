@@ -52,7 +52,7 @@ All my Games and projects listed in one place
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hozyfa-batisha&theme=holi-theme&card_width=489&hide_longest_streak=true" alt="GitHub Streak" /></a> <br>
-  <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=hozyfa-batisha" alt="GitHub Streak" /> </a>
+  <!-- <a href="https://github.com/Hozyfa-Batisha" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=hozyfa-batisha" alt="GitHub Streak" /> </a> -->
 </p>
 
 <p align="center">
@@ -61,11 +61,12 @@ All my Games and projects listed in one place
   <a href="https://wakatime.com/@hozyfa"><img src="https://wakatime.com/share/@7b6a8d92-5440-4323-bbbb-53ffcb5d307f/2e66cd7b-b286-4020-b700-5725bd17ea17.svg" /></a> -->
 </p>
 
-<!-- <h3 align="center">Checkout my LeetCode!</h3>
+<h3 align="center">Checkout my Codeforces!</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/eA8sb8emeo" target="blank"> <img src="https://leetcard.jacoblin.cool/eA8sb8emeo?theme=unicorn&font=Noto%20Sans%20Palmyrene" alt="GitHub Streak" /> </a>
-</p> -->
+  <a href="https://codeforces.com/profile/Hozyfa" target="blank"> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Hozyfa&theme=radical" alt="My Codeforces" /> </a>
+  <!-- <a href="https://leetcode.com/u/eA8sb8emeo" target="blank"> <img src="https://leetcard.jacoblin.cool/eA8sb8emeo?theme=unicorn&font=Noto%20Sans%20Palmyrene" alt="GitHub Streak" /> </a> -->
+</p>
 
 <h3 align="center">Connect with me</h3>
 
